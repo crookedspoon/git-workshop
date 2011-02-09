@@ -14,4 +14,6 @@
 * a girl goes into a pub, she asks the barman for an example of a double entendre...
 * so he gives her one.
 
+!SLIDE bullets
+* Insert something about 'finger'ing users here
 
