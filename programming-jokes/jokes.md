@@ -39,3 +39,7 @@
 * Ach
 * Ach who?
 * Bless you.
+
+!SLIDE bullets incremental
+* Man walks into a bar
+* Ouch it was an iron bar
