@@ -9,3 +9,6 @@
 !SLIDE bullets incremental
 * There are 10 types of people in the world:
 * those who understand binary, and those who don't.
+
+* Man walks into a bar
+* Ouch it was an iron bar
