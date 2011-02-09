@@ -9,3 +9,9 @@
 !SLIDE bullets incremental
 * There are 10 types of people in the world:
 * those who understand binary, and those who don't.
+
+Knock knock.
+Who's there.
+Ach
+Ach who?
+Bless you.
