@@ -46,3 +46,7 @@
 !SLIDE bullets incremental
 * Why did the baker have smelly hands?
 * Because he kneaded a poo.
+
+!SLIDE bullets incremental
+* What's green and snappy?
+* A crocodile
