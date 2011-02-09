@@ -29,3 +29,6 @@
 * What did the mathematician do when he got constipation? 
 * He worked it out with a pencil. 
 
+!SLIDE bullets incremental
+* What is E.T. short for?
+* Because he's only got short little legs.
