@@ -17,3 +17,15 @@
 !SLIDE bullets
 * Insert something about 'finger'ing users here
 
+!SLIDE bullets
+* Did you hear about the programmer who got stuck in the shower? 
+* The shampoo bottle label read "Lather, rinse, repeat". 
+
+!SLIDE bullets incremental
+* How many programmers does it take to change a light-bulb?
+* None - it's a hardware problem. 
+
+!SLIDE bullets incremental
+* What did the mathematician do when he got constipation? 
+* He worked it out with a pencil. 
+
