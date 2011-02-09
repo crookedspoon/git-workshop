@@ -9,3 +9,9 @@
 !SLIDE bullets incremental
 * There are 10 types of people in the world:
 * those who understand binary, and those who don't.
+
+!SLIDE bullets incremental
+* a girl goes into a pub, she asks the barman for an example of a double entendre...
+* so he gives her one.
+
+
