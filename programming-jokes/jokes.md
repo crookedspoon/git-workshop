@@ -9,3 +9,7 @@
 !SLIDE bullets incremental
 * There are 10 types of people in the world:
 * those who understand binary, and those who don't.
+
+!SLIDE bullets incremental
+* What is E.T. short for?
+* Because he's only got short little legs.
