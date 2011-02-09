@@ -9,3 +9,7 @@
 !SLIDE bullets incremental
 * There are 10 types of people in the world:
 * those who understand binary, and those who don't.
+
+!SLIDE bullets incremental
+* Why did the baker have smelly hands?
+* Because he kneaded a poo.
