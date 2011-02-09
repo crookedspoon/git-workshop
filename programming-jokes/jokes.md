@@ -42,3 +42,7 @@
 !SLIDE bullets incremental
 * Man walks into a bar
 * Ouch it was an iron bar
+
+!SLIDE bullets incremental
+* Why did the baker have smelly hands?
+* Because he kneaded a poo.
