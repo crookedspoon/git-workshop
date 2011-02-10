@@ -62,3 +62,7 @@
 !SLIDE bullets incremental
 * How do you make a duck into a soul singer? (not a programming joke I know):
 * Put it in the microwave and it's Bill Withers.
+
+!SLIDE bullets
+* What did one git branch say to another git branch 
+* I fork you
