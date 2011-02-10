@@ -10,6 +10,14 @@
 * those who understand binary, and those who don't.
 
 !SLIDE bullets incremental
+* There are 10 bottles of beer on the wall,
+* and there still there as hes looking at hit twitter
+
+!SLIDE bullets incremental
+* STILL 10 bottles of beer on the wall,
+* and there still there as hes looking at hit twitter
+
+!SLIDE bullets incremental
 * a girl goes into a pub, she asks the barman for an example of a double entendre...
 * so he gives her one.
 
