@@ -66,3 +66,8 @@
 !SLIDE bullets
 * What did one git branch say to another git branch 
 * I fork you
+
+!SLIDE bullets
+* What did one regex say to the other?
+* .+
+
